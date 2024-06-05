@@ -8,6 +8,6 @@
 
 Technologies used in the project:
 
-*   java
-*   mysql
-*   msaccess
+*   Java
+*   Mysql
+*   Ms Access
